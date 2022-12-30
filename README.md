@@ -42,6 +42,18 @@ Because 2022 is almost over and we all knew that was a super challenging year fo
 
 <br />
 
+## ✨ [Django Berry Dashboard](https://django-berry-dashboard.onrender.com)
+
+Open-source **Django** project crafted on top of **Berry Dashboard**, an open-source `Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed)
+The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Berry` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
+
+- 👉 [Django Berry](https://django-berry-dashboard.onrender.com) - `LIVE Demo`
+- 👉 [Django Berry](https://github.com/app-generator/django-berry-dashboard) - `source code`
+
+![Berry Bootstrap 5 - Dark-Mode ready, Open-source Template.](https://user-images.githubusercontent.com/51070104/207091062-e805b36c-663a-4a01-acb8-9c55ab914f4f.jpg)
+
+<br />
+
 ## ✨ [Django Dashboard Material](https://appseed.us/product/material-dashboard/django/)
 
 Designed for those who like bold elements and beautiful websites, **[Material Dashboard](https://appseed.us/generator/material-dashboard/)** is ready to help you create stunning websites and webapps. **Material Dashboard** is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
