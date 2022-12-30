@@ -2,23 +2,15 @@
 
 A curated list with **[Django Dashboards](https://appseed.us/admin-dashboards/django/)** generated and actively supported by AppSeed. For newcomers, **[Django](https://appseed.us/admin-dashboards/django/)** is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. 
 
-<br />
-
-## 🚀 [AppSeed](https://appseed.us/) `PROMO` 🔥50%OFF (all products)
-
-[![Campaign Boost 2023 - AppSeed Winter PROMO](https://user-images.githubusercontent.com/51070104/207626921-2cd669fe-457f-47a3-83b3-b58d5ba7d46f.jpg)](https://appseed.us/discounts/)
+> Curated by [Sm0ke](https://twitter.com/Sm0keDev)
 
 <br />
 
-## ✨ [Django Berry Dashboard](https://django-berry-dashboard.onrender.com)
+## 🎁 `PROMO` [Best Deals for Developers](https://www.admin-dashboards.com/best-deals-for-developers/) - Up to `80%OFF`
 
-Open-source **Django** project crafted on top of **Berry Dashboard**, an open-source `Boostrap 5` design from [CodedThemes](https://codedthemes.com/?ref=appseed)
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. `Berry` has easy and intuitive responsive design whether it is viewed on retina screens or laptops.
+Because 2022 is almost over and we all knew that was a super challenging year for all of us (freelancers, entrepreneurs, all-size companies) this article aims to highlight the **best deals for developers** that might help us to start amazing projects in 2023 at the lower cost possible.
 
-- 👉 [Django Berry](https://django-berry-dashboard.onrender.com) - `LIVE Demo`
-- 👉 [Django Berry](https://github.com/app-generator/django-berry-dashboard) - `source code`
-
-![Berry Bootstrap 5 - Dark-Mode ready, Open-source Template.](https://user-images.githubusercontent.com/51070104/207091062-e805b36c-663a-4a01-acb8-9c55ab914f4f.jpg)
+[![Best Deals For Programmers and Freelancers - Provided by AppSeed, CodedThemes, Creatuve-Tim, WrapPixel and BootstrapDash.](https://user-images.githubusercontent.com/51070104/209994947-ed4b33dd-f269-4043-8432-2c01a53e0f6b.jpg)](https://www.admin-dashboards.com/best-deals-for-developers/)
 
 <br />
 
